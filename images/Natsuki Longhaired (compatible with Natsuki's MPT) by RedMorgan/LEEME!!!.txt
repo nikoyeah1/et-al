@@ -1,0 +1,21 @@
+NATSUKI CABELLO LARGO PARA MPT (por RedMorgan#0411 - Desarrollador de Doki Doki Fighting For Reality)
+
+=== ÍNDICE ===
+
+- 100% de uso libre.
+- Agradecería bastante los créditos <3
+- Próximamente: Sprite Pack de Thiccsuki 7u7
+
+=== INSTRUCCIONES ===
+
+1- Primero necesitas el MPT original de Natsuki ya instalado (preferiblemente en game/mod_assets/MPT)
+2- Mover la carpeta "natsuki" y el archivo "natsuki_layeredimage.rpy" a tu carpeta MPT. (Windows les preguntará si quieres reemplazar los cuatro natsuki_ff_nose sprites y el archivo .rpy, sólo denle a ACEPTAR)
+3- Dentro del juego, usa los comandos ffl (cabeza frontal) o fsl (cabeza triste) luego del "show natsuki" para que el juego use los sprites de cabello largo (si no los usas, mostrará los sprites de pelo corto).
+4- ¡LISTO!
+
+PD: ¿Problemas, bugs? Por favor reportarlos a RedMorgan#0411 por Discord o en cualquier otra red social de Doki Doki Fighting For Reality.
+
+Facebook: https://www.facebook.com/DDF4R
+YouTube: https://www.youtube.com/@DokiDokiFightingForReality 
+Discord: RedMorgan#0411
+Twitter: https://twitter.com/DDF4RDevTeam

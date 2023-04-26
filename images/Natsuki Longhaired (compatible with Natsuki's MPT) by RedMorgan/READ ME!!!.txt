@@ -1,0 +1,21 @@
+LONG-HAIRED NATSUKI FOR MPT (by RedMorgan#0411 - Doki Doki Fighting For Reality Developer)
+
+=== INDEX ===
+
+- 100% Free to use.
+- Credits really appreciated <3
+- Coming soon: Thiccsuki Sprite Pack 7u7
+
+=== INSTRUCTIONS ===
+
+1- You need the Natsuki's MPT installed first (likely on game/mod_assets/MPT)
+2- Move the folder "natsuki" and the file "natsuki_layeredimage.rpy" on your MPT folder. (the system will require to replace the four natsuki_ff_nose sprites and the .rpy files, just click YES)
+3- On your game, use the ffl (forward head) or fsl (sad head) commands after the "show natsuki" to make the game show the long-haired sprite (if you don't, the game will show the short-haired sprite instead)
+4- DONE!
+
+PS: Any bugs/problems? Please report to RedMorgan#0411 via Discord or any Doki Doki Fighting For Reality social media.
+
+Facebook: https://www.facebook.com/DDF4R
+YouTube: https://www.youtube.com/@DokiDokiFightingForReality 
+Discord: RedMorgan#0411
+Twitter: https://twitter.com/DDF4RDevTeam
